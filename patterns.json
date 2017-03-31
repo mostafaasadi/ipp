@@ -279,5 +279,45 @@
         "caseSensitive":false,
         "blackList":false,
         "multiLine":false
+     }, {
+         "enabled": true,
+         "name": "wordpress.com",
+         "pattern": "*://wp.com/*",
+         "isRegEx": false,
+         "caseSensitive": false,
+         "blackList": false,
+         "multiLine": false
+     }, {
+         "enabled": true,
+         "name": "wordpress.com",
+         "pattern": "*://wordpress.com/*",
+         "isRegEx": false,
+         "caseSensitive": false,
+         "blackList": false,
+         "multiLine": false
+     }, {
+         "enabled": true,
+         "name": "wordpress.com",
+         "pattern": "*://*.wp.com/*",
+         "isRegEx": false,
+         "caseSensitive": false,
+         "blackList": false,
+         "multiLine": false
+     }, {
+         "enabled": true,
+         "name": "disqus",
+         "pattern": "*://*.disqus.com/*",
+         "isRegEx": false,
+         "caseSensitive": false,
+         "blackList": false,
+         "multiLine": false
+     }, {
+         "enabled": true,
+         "name": "disqus",
+         "pattern": "*://disqus.com/*",
+         "isRegEx": false,
+         "caseSensitive": false,
+         "blackList": false,
+         "multiLine": false
      }]
 }
