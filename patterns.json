@@ -231,5 +231,53 @@
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    }]
+    }, {
+        "enabled":true,
+        "name":"Radiojavan",
+        "pattern":"*://radiojavan.com/*",
+        "isRegEx":false,
+        "caseSensitive":false,
+        "blackList":false,
+        "multiLine":false
+     }, {
+        "enabled":true,
+        "name":"Radiojavan",
+        "pattern":"*://*.radiojavan.com/*",
+        "isRegEx":false,
+        "caseSensitive":false,
+        "blackList":false,
+        "multiLine":false
+     }, {
+        "enabled":true,
+        "name":"Radiojavan",
+        "pattern":"*://*.rdjvn-assets.com/*",
+        "isRegEx":false,
+        "caseSensitive":false,
+        "blackList":false,
+        "multiLine":false
+     }, {
+        "enabled":true,
+        "name":"Radiojavan",
+        "pattern":"*://rdjvn-assets.com/*",
+        "isRegEx":false,
+        "caseSensitive":false,
+        "blackList":false,
+        "multiLine":false
+     }, {
+        "enabled":true,
+        "name":"Radiojavan",
+        "pattern":"*://rjmediamusic.com/*",
+        "isRegEx":false,
+        "caseSensitive":false,
+        "blackList":false,
+        "multiLine":false
+     }, {
+        "enabled":true,
+        "name":"Radiojavan",
+        "pattern":"*://*.rjmediamusic.com/*",
+        "isRegEx":false,
+        "caseSensitive":false,
+        "blackList":false,
+        "multiLine":false
+     }]
 }
