@@ -193,6 +193,14 @@
         "multiLine": false
     }, {
         "enabled": true,
+        "name": "VMware",
+        "pattern": "*://*vmware.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
         "name": "AMD",
         "pattern": "*://*.amd.com/*",
         "isRegEx": false,
@@ -201,8 +209,24 @@
         "multiLine": false
     }, {
         "enabled": true,
+        "name": "AMD",
+        "pattern": "*://*amd.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
         "name": "Nvidia",
         "pattern": "*://*.nvidia.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "Nvidia",
+        "pattern": "*://*nvidia.com/*",
         "isRegEx": false,
         "caseSensitive": false,
         "blackList": false,
