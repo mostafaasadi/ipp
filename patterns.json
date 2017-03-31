@@ -1,8 +1,8 @@
 {
     "patterns": [{
         "enabled": true,
-        "name": "ThePirateBay-Onion",
-        "pattern": "*uj3wazyk5u4hnvtk.onion/*",
+        "name": "Onion-Sites",
+        "pattern": "*://*.onion/*",
         "isRegEx": false,
         "caseSensitive": false,
         "blackList": false,
@@ -10,15 +10,31 @@
     }, {
         "enabled": true,
         "name": "SubScene",
-        "pattern": "*subscene.com/*",
+        "pattern": "*://*.subscene.com/*",
         "isRegEx": false,
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    },{
+    }, {
+        "enabled": true,
+        "name": "SubScene",
+        "pattern": "*://subscene.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
         "enabled": true,
         "name": "Jadi",
-        "pattern": "*jadi.net/*",
+        "pattern": "*://*.jadi.net/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "Jadi",
+        "pattern": "*://jadi.net/*",
         "isRegEx": false,
         "caseSensitive": false,
         "blackList": false,
@@ -26,28 +42,60 @@
     }, {
         "enabled": true,
         "name": "Quora",
-        "pattern": "*quora.com/*",
+        "pattern": "*://*.quora.com/*",
         "isRegEx": false,
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    },{
+    }, {
+        "enabled": true,
+        "name": "Quora",
+        "pattern": "*://quora.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
         "enabled": true,
         "name": "IMDb",
-        "pattern": "*imdb.com/*",
+        "pattern": "*://*.imdb.com/*",
         "isRegEx": false,
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    },{
+    }, {
+        "enabled": true,
+        "name": "IMDb",
+        "pattern": "*://imdb.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "IMDb",
+        "pattern": "*://*.media-imdb.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
         "enabled": true,
         "name": "FaceBook",
-        "pattern": "*facebook.com/*",
+        "pattern": "*://*.facebook.com/*",
         "isRegEx": false,
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    },{
+    }, {
+        "enabled": true,
+        "name": "FaceBook",
+        "pattern": "*://facebook.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
         "enabled": true,
         "name": "Twitter",
         "pattern": "*://twitter.com/*",
