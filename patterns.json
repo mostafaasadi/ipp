@@ -25,7 +25,7 @@
         "multiLine": false
     }, {
         "enabled": true,
-        "name": "Yuotube",
+        "name": "Youtube",
         "pattern": "*://www.youtube.com/*",
         "isRegEx": false,
         "caseSensitive": false,
@@ -33,7 +33,7 @@
         "multiLine": false
     }, {
         "enabled": true,
-        "name": "Yuotube",
+        "name": "Youtube",
         "pattern": "*://ytimg.com/*",
         "isRegEx": false,
         "caseSensitive": false,
@@ -41,7 +41,7 @@
         "multiLine": false
     }, {
         "enabled": true,
-        "name": "Yuotube",
+        "name": "Youtube",
         "pattern": "*://*.ytimg.com/*",
         "isRegEx": false,
         "caseSensitive": false,
@@ -49,7 +49,7 @@
         "multiLine": false
     }, {
         "enabled": true,
-        "name": "Yuotube",
+        "name": "Youtube",
         "pattern": "*://*.googlevideo.com/*",
         "isRegEx": false,
         "caseSensitive": false,
@@ -57,7 +57,7 @@
         "multiLine": false
     }, {
         "enabled": true,
-        "name": "Yuotube",
+        "name": "Youtube",
         "pattern": "*://*.youtube.com/*",
         "isRegEx": false,
         "caseSensitive": false,
