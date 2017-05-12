@@ -320,12 +320,52 @@
          "blackList": false,
          "multiLine": false
      }, {
-        "enabled": true,
+         "enabled": true,
          "name": "clipconverter",
          "pattern": "*://clipconverter.cc/*",
          "isRegEx": false,
          "caseSensitive": false,
          "blackList": false,
          "multiLine": false
-     }]
+     }, {
+        "enabled":true,
+        "name":"Youtube",
+        "pattern":"*://*.ggpht.com/*",
+        "isRegEx":false,
+        "caseSensitive":false,
+        "blackList":false,
+        "multiLine":false
+     }, {
+        "enabled":true,
+        "name":"youtube",
+        "pattern":"*://youtu.be/*",
+        "isRegEx":false,
+        "caseSensitive":false,
+        "blackList":false,
+        "multiLine":false
+     }, {
+          "enabled":true,
+          "name":"youtube",
+          "pattern":"*://www.youtube-nocookie.com/*",
+          "isRegEx":false,
+          "caseSensitive":false,
+          "blackList":false,
+          "multiLine":false
+     }, {
+          "enabled":true,
+          "name":"udemy",
+          "pattern":"*://www.udemy.com/*",
+          "isRegEx":false,
+          "caseSensitive":false,
+          "blackList":false,
+          "multiLine":false
+     }, {
+          "enabled":true,
+          "name":"twitter short links",
+          "pattern":"*://t.co/*",
+          "isRegEx":false,
+          "caseSensitive":false,
+          "blackList":false,
+          "multiLine":false
+          }]
 }
