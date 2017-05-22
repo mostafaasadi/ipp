@@ -1,6 +1,70 @@
 {
     "patterns": [{
         "enabled": true,
+        "name": "wikia",
+        "pattern": "*://wikia.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "wikia",
+        "pattern": "*://*.wikia.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "reddit",
+        "pattern": "*://reddit.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "reddit",
+        "pattern": "*://*.reddit.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "IGN",
+        "pattern": "*://ign.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "IGN",
+        "pattern": "*://*.ign.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "screencast",
+        "pattern": "*://screencast.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
+        "name": "Screen shot",
+        "pattern": "*://*.screencast.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+        "enabled": true,
         "name": "Onion-Sites",
         "pattern": "*://*.onion/*",
         "isRegEx": false,
