@@ -2,7 +2,25 @@
     "patterns": [{
         "enabled": true,
         "name": "wikia",
+        "pattern": "*://wikia.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    },{
+    "patterns": [{
+        "enabled": true,
+        "name": "wikia",
         "pattern": "*://*.wikia.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    },{
+    "patterns": [{
+        "enabled": true,
+        "name": "reddit",
+        "pattern": "*://reddit.com/*",
         "isRegEx": false,
         "caseSensitive": false,
         "blackList": false,
@@ -16,11 +34,29 @@
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    }, {
+    },{
+    "patterns": [{
+        "enabled": true,
+        "name": "IGN",
+        "pattern": "*://ign.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    },{
     "patterns": [{
         "enabled": true,
         "name": "IGN",
         "pattern": "*://*.ign.com/*",
+        "isRegEx": false,
+        "caseSensitive": false,
+        "blackList": false,
+        "multiLine": false
+    }, {
+    "patterns": [{
+        "enabled": true,
+        "name": "screencast",
+        "pattern": "*://screencast.com/*",
         "isRegEx": false,
         "caseSensitive": false,
         "blackList": false,
