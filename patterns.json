@@ -7,8 +7,7 @@
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    },{
-    "patterns": [{
+    }, {
         "enabled": true,
         "name": "wikia",
         "pattern": "*://*.wikia.com/*",
@@ -16,8 +15,7 @@
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    },{
-    "patterns": [{
+    }, {
         "enabled": true,
         "name": "reddit",
         "pattern": "*://reddit.com/*",
@@ -25,8 +23,7 @@
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    },{
-    "patterns": [{
+    }, {
         "enabled": true,
         "name": "reddit",
         "pattern": "*://*.reddit.com/*",
@@ -34,8 +31,7 @@
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    },{
-    "patterns": [{
+    }, {
         "enabled": true,
         "name": "IGN",
         "pattern": "*://ign.com/*",
@@ -43,8 +39,7 @@
         "caseSensitive": false,
         "blackList": false,
         "multiLine": false
-    },{
-    "patterns": [{
+    }, {
         "enabled": true,
         "name": "IGN",
         "pattern": "*://*.ign.com/*",
@@ -53,7 +48,6 @@
         "blackList": false,
         "multiLine": false
     }, {
-    "patterns": [{
         "enabled": true,
         "name": "screencast",
         "pattern": "*://screencast.com/*",
@@ -62,7 +56,6 @@
         "blackList": false,
         "multiLine": false
     }, {
-    "patterns": [{
         "enabled": true,
         "name": "Screen shot",
         "pattern": "*://*.screencast.com/*",
@@ -71,7 +64,6 @@
         "blackList": false,
         "multiLine": false
     }, {
-    "patterns": [{
         "enabled": true,
         "name": "Onion-Sites",
         "pattern": "*://*.onion/*",
