@@ -1,371 +1,387 @@
 {
-    "patterns": [{
-        "enabled": true,
-        "name": "Onion-Sites",
-        "pattern": "*://*.onion/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "SubScene",
-        "pattern": "*://*.subscene.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "SubScene",
-        "pattern": "*://subscene.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Jadi",
-        "pattern": "*://*.jadi.net/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Jadi",
-        "pattern": "*://jadi.net/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Quora",
-        "pattern": "*://*.quora.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Quora",
-        "pattern": "*://quora.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "IMDb",
-        "pattern": "*://*.imdb.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "IMDb",
-        "pattern": "*://imdb.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "IMDb",
-        "pattern": "*://*.media-imdb.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "FaceBook",
-        "pattern": "*://*.facebook.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "FaceBook",
-        "pattern": "*://facebook.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Twitter",
-        "pattern": "*://twitter.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Twitter",
-        "pattern": "*://*.twimg.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Twitter",
-        "pattern": "*://*.twitter.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Youtube",
-        "pattern": "*://www.youtube.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Youtube",
-        "pattern": "*://ytimg.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Youtube",
-        "pattern": "*://*.ytimg.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Youtube",
-        "pattern": "*://*.googlevideo.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Youtube",
-        "pattern": "*://*.youtube.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Google services",
-        "pattern": "*://*.googleadservices.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Duckduckgo",
-        "pattern": "*://duckduckgo.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Duckduckgo",
-        "pattern": "*://*.duckduckgo.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "VMware",
-        "pattern": "*://*.vmware.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "VMware",
-        "pattern": "*://vmware.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "AMD",
-        "pattern": "*://*.amd.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "AMD",
-        "pattern": "*://amd.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Nvidia",
-        "pattern": "*://*.nvidia.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled": true,
-        "name": "Nvidia",
-        "pattern": "*://nvidia.com/*",
-        "isRegEx": false,
-        "caseSensitive": false,
-        "blackList": false,
-        "multiLine": false
-    }, {
-        "enabled":true,
-        "name":"Radiojavan",
-        "pattern":"*://radiojavan.com/*",
-        "isRegEx":false,
-        "caseSensitive":false,
-        "blackList":false,
-        "multiLine":false
-     }, {
-        "enabled":true,
-        "name":"Radiojavan",
-        "pattern":"*://*.radiojavan.com/*",
-        "isRegEx":false,
-        "caseSensitive":false,
-        "blackList":false,
-        "multiLine":false
-     }, {
-        "enabled":true,
-        "name":"Radiojavan",
-        "pattern":"*://*.rdjvn-assets.com/*",
-        "isRegEx":false,
-        "caseSensitive":false,
-        "blackList":false,
-        "multiLine":false
-     }, {
-        "enabled":true,
-        "name":"Radiojavan",
-        "pattern":"*://rdjvn-assets.com/*",
-        "isRegEx":false,
-        "caseSensitive":false,
-        "blackList":false,
-        "multiLine":false
-     }, {
-        "enabled":true,
-        "name":"Radiojavan",
-        "pattern":"*://rjmediamusic.com/*",
-        "isRegEx":false,
-        "caseSensitive":false,
-        "blackList":false,
-        "multiLine":false
-     }, {
-        "enabled":true,
-        "name":"Radiojavan",
-        "pattern":"*://*.rjmediamusic.com/*",
-        "isRegEx":false,
-        "caseSensitive":false,
-        "blackList":false,
-        "multiLine":false
-     }, {
-         "enabled": true,
-         "name": "wordpress.com",
-         "pattern": "*://wp.com/*",
-         "isRegEx": false,
-         "caseSensitive": false,
-         "blackList": false,
-         "multiLine": false
-     }, {
-         "enabled": true,
-         "name": "wordpress.com",
-         "pattern": "*://wordpress.com/*",
-         "isRegEx": false,
-         "caseSensitive": false,
-         "blackList": false,
-         "multiLine": false
-     }, {
-         "enabled": true,
-         "name": "wordpress.com",
-         "pattern": "*://*.wp.com/*",
-         "isRegEx": false,
-         "caseSensitive": false,
-         "blackList": false,
-         "multiLine": false
-     }, {
-         "enabled": true,
-         "name": "disqus",
-         "pattern": "*://*.disqus.com/*",
-         "isRegEx": false,
-         "caseSensitive": false,
-         "blackList": false,
-         "multiLine": false
-     }, {
-         "enabled": true,
-         "name": "disqus",
-         "pattern": "*://disqus.com/*",
-         "isRegEx": false,
-         "caseSensitive": false,
-         "blackList": false,
-         "multiLine": false
-     }, {
-         "enabled": true,
-         "name": "clipconverter",
-         "pattern": "*://clipconverter.cc/*",
-         "isRegEx": false,
-         "caseSensitive": false,
-         "blackList": false,
-         "multiLine": false
-     }, {
-        "enabled":true,
-        "name":"Youtube",
-        "pattern":"*://*.ggpht.com/*",
-        "isRegEx":false,
-        "caseSensitive":false,
-        "blackList":false,
-        "multiLine":false
-     }, {
-        "enabled":true,
-        "name":"youtube",
-        "pattern":"*://youtu.be/*",
-        "isRegEx":false,
-        "caseSensitive":false,
-        "blackList":false,
-        "multiLine":false
-     }, {
-          "enabled":true,
-          "name":"youtube",
-          "pattern":"*://www.youtube-nocookie.com/*",
-          "isRegEx":false,
-          "caseSensitive":false,
-          "blackList":false,
-          "multiLine":false
-     }, {
-          "enabled":true,
-          "name":"udemy",
-          "pattern":"*://www.udemy.com/*",
-          "isRegEx":false,
-          "caseSensitive":false,
-          "blackList":false,
-          "multiLine":false
-     }, {
-          "enabled":true,
-          "name":"twitter short links",
-          "pattern":"*://t.co/*",
-          "isRegEx":false,
-          "caseSensitive":false,
-          "blackList":false,
-          "multiLine":false
-          }]
+  "patterns": [{
+    "enabled": true,
+    "name": "Wikia",
+    "pattern": "*://wikia.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Wikia",
+    "pattern": "*://*.wikia.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Onion-Sites",
+    "pattern": "*://*.onion/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "SubScene",
+    "pattern": "*://*.subscene.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "SubScene",
+    "pattern": "*://subscene.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Jadi",
+    "pattern": "*://*.jadi.net/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Jadi",
+    "pattern": "*://jadi.net/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Quora",
+    "pattern": "*://*.quora.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Quora",
+    "pattern": "*://quora.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "IMDb",
+    "pattern": "*://*.imdb.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "IMDb",
+    "pattern": "*://imdb.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "IMDb",
+    "pattern": "*://*.media-imdb.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "FaceBook",
+    "pattern": "*://*.facebook.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "FaceBook",
+    "pattern": "*://facebook.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Twitter",
+    "pattern": "*://twitter.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Twitter",
+    "pattern": "*://*.twimg.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Twitter",
+    "pattern": "*://*.twitter.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Youtube",
+    "pattern": "*://www.youtube.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Youtube",
+    "pattern": "*://ytimg.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Youtube",
+    "pattern": "*://*.ytimg.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Youtube",
+    "pattern": "*://*.googlevideo.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Youtube",
+    "pattern": "*://*.youtube.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Google services",
+    "pattern": "*://*.googleadservices.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Duckduckgo",
+    "pattern": "*://duckduckgo.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Duckduckgo",
+    "pattern": "*://*.duckduckgo.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "VMware",
+    "pattern": "*://*.vmware.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "VMware",
+    "pattern": "*://vmware.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "AMD",
+    "pattern": "*://*.amd.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "AMD",
+    "pattern": "*://amd.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Nvidia",
+    "pattern": "*://*.nvidia.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Nvidia",
+    "pattern": "*://nvidia.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Radiojavan",
+    "pattern": "*://radiojavan.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Radiojavan",
+    "pattern": "*://*.radiojavan.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Radiojavan",
+    "pattern": "*://*.rdjvn-assets.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Radiojavan",
+    "pattern": "*://rdjvn-assets.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Radiojavan",
+    "pattern": "*://rjmediamusic.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Radiojavan",
+    "pattern": "*://*.rjmediamusic.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "wordpress.com",
+    "pattern": "*://wp.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "wordpress.com",
+    "pattern": "*://wordpress.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "wordpress.com",
+    "pattern": "*://*.wp.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "disqus",
+    "pattern": "*://*.disqus.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "disqus",
+    "pattern": "*://disqus.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "clipconverter",
+    "pattern": "*://clipconverter.cc/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "Youtube",
+    "pattern": "*://*.ggpht.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "youtube",
+    "pattern": "*://youtu.be/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "youtube",
+    "pattern": "*://www.youtube-nocookie.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "udemy",
+    "pattern": "*://www.udemy.com/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }, {
+    "enabled": true,
+    "name": "twitter short links",
+    "pattern": "*://t.co/*",
+    "isRegEx": false,
+    "caseSensitive": false,
+    "blackList": false,
+    "multiLine": false
+  }]
 }
